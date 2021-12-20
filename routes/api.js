@@ -4,7 +4,7 @@
 
 // Thanks to ( jgn di hapus jamet)
 /*
-<p> Loli Killers</p>
+<p> LeonGanz</p>
 <p> Rynz</p>
 <p> Eka Danuarta</p>
 <p> ZeeoneOfc </p>
@@ -23,7 +23,7 @@ var lolkill = db.get("lolkill");
 }
 
 var creator = 'ZeeoneOfc' // ubah jadi nama lu
-const listkey = ["Alphabot","Zeeone","ZeeoneOfc"]; // ubah apikey nya, tambah aja klo mau
+const listkey = ["Yui","Zeeone","ZeeoneOfc"]; // ubah apikey nya, tambah aja klo mau
 
 var axios = require('axios');
 var qs = require('qs');
